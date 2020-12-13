@@ -12,6 +12,8 @@
 
 `apt install git`
 
+`git clone https://github.com/k0vbaska/checkerip`
+
 # Запустить
 Перед запуском убедитесь, что вы находитесь в директории с скриптом
 
